@@ -1,0 +1,7 @@
+# coding: utf-8
+
+l1=list(range(30000,100000))
+l2=list(range(0,18000))
+l3=l1+l2
+
+# j'ai essayé la fonction .zfill que j'ai trouvé sur google, mais je ne suis pas arrivée à la faire fonctionner, ce qui explique pourquoi je n'ai que cette fraction de sa solution.
